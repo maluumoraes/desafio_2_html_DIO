@@ -12,7 +12,7 @@ Para execução desse projeto foram utilizados:
 
   CSS
 
-Foram utilizadas as tags: < h1 >, <h2>, <h3>, < p >, < b >, < i >, < u >, < strong >, < em >, < a >, < img >, < code >, < hr >, < br >, < ul >, < il >, < div >, < link >, < header >, < main >,< footer >, < section >, < form >, < label >, < input > , < select >, < option >, < textarea >, < iframe >, < table >, < tr >, < td >, < th >
+Foram utilizadas as tags: < h1 >, < h2 >, < h3 >, < p >, < b >, < i >, < u >, < strong >, < em >, < a >, < img >, < code >, < hr >, < br >, < ul >, < il >, < div >, < link >, < header >, < main >,< footer >, < section >, < form >, < label >, < input > , < select >, < option >, < textarea >, < iframe >, < table >, < tr >, < td >, < th >
 
 
 Nas configurações CSS foram usados: margin, padding, background-color, color, text-align, position, float, height, width, padding-left, padding-top, padding-right, display, margin-top, border-radius, border-color, border-style, border, top.
