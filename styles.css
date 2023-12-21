@@ -1,0 +1,115 @@
+*{
+    margin:auto;
+    padding: 0;
+}
+
+body{
+    background-color: bisque;
+}
+
+header{
+    color: #0097b2;
+    background-color: bisque;
+    text-align: center;
+    position: fixed;
+    float: flex;
+    height: 30%;
+    width: 100%;
+    padding: 2%;
+}
+
+main{
+    color: darkblue;
+    background-color: rgb(252, 204, 146);
+    text-align: left;
+    position: static;
+    padding-left:20%;
+    padding-top: 20%;
+    padding-right: 10%;
+    display: flex;
+    width: 100%;
+
+}
+
+footer{
+    color: darkblue;
+    background-color: bisque;
+    width: 30%;
+}
+
+nav{
+    position: fixed;
+    float: left;
+    margin-top: 0;
+    background-color: #0097b2;
+    color: aliceblue;
+    height: 100%;
+    width: 15%;
+    text-align: center;
+    padding-left: 1%;
+    display:grid;
+}
+
+li:hover{
+    background-color: bisque;
+    color: #0097b2;
+    border-radius: 40%;
+}
+
+li::marker{
+    color:#0097b2;
+}
+
+img{
+    width: 10%;
+    border-radius: 100%;
+    border-color: #0097b2;
+    border-style: double;
+}
+
+.servicos,.infraestrutura,.profissionais,.nossa_clinica,.nossos_profissionais, .horarios,.fale_conosco, .mapa, .formulario{
+    background-color: rgb(243, 187, 89);
+    border-color: #251275;
+    border-style:double;
+    border: 10%;
+    width: 60%;
+    padding: 5%;
+    margin: 5%;
+    top: 30%;
+}
+
+.label {
+    padding-top: 1rem;
+    text-align: left;    
+}
+
+
+table{
+    background-color: burlywood;
+    padding: 0.5%;
+}
+
+td:first-child {
+    border-left-width: 100px;
+  }
+
+td{
+    border:1px;
+    border-left-width: 0;
+    min-width: 120px;
+    height: 18px;
+    color: rgb(129, 12, 12);
+    background-color: bisque;
+    text-align: center;
+}
+
+td:hover{
+    background-color: brown;
+    color: bisque;
+}
+
+tr{
+    border:1px;
+    color: brown;
+}
+
